@@ -1,0 +1,48 @@
+.attractor-page {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+}
+
+.attractor-graph {
+    width: 80vw;
+}
+
+.attractor-menu {
+    display: flex;
+    flex-direction: column;
+    gap: 53px;
+    border: solid black;
+    width: 20vw;
+    padding: 15px;
+    overflow: auto;
+}
+
+.attractor-settings {
+    display: flex;
+    flex-direction: column;
+}
+
+.settings-item {
+    display: flex;
+    flex-direction: column;
+    margin-top: 17px;
+}
+
+.speed-bar {
+    display: flex;
+}
+
+.speed-bar > button {
+    width: 100%;
+}
+
+.attractor-instructions > ol {
+    list-style-position: outside;
+    list-style-type: circle;
+    padding-left: 1.5em;
+}
+
+.attractor-instructions * li {
+    margin-top: 10px;
+}
