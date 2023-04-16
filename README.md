@@ -9,7 +9,7 @@ This is a web application for visualizing various chaotic attractors, including 
 
 ## Demo video
 
-https://user-images.githubusercontent.com/55023358/232251387-6b89b8d5-5bdf-4d51-9ded-b4bcc73d2f5d.mp4
+https://user-images.githubusercontent.com/55023358/232278338-76d930f3-6a0e-4284-a0cf-db96fd181b2b.mp4
 
 ## Installation
 
